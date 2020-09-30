@@ -8,7 +8,8 @@
     "msp/recaptcha": "2.2.*"
   },
   "license": [
-    "Open Software License (OSL)"
+    "OSL-3.0",
+    "AFL-3.0"
   ],
   "autoload": {
     "files": [
